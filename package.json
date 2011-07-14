@@ -6,7 +6,7 @@
     ],
     "description": "",
     "homepage": "http://github.com/mah0x211/node-auditor",
-    "version" : "0.1.3",
+    "version" : "0.1.4",
     "licenses" : [
         {
             "type": "MIT" 
